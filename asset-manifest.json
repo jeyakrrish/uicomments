@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.js": "/uicomments/static/js/main.60929de5.js",
+    "static/media/tamil.png": "/uicomments/static/media/tamil.24e3168208f08617a1bb.png",
+    "static/media/santh.png": "/uicomments/static/media/santh.c11cccdbc62eda7ab816.png",
+    "static/media/friends.jpg": "/uicomments/static/media/friends.da315042b0b8c130f109.jpg",
+    "static/media/sarah.jpg": "/uicomments/static/media/sarah.562bbe4835dd1ced93d6.jpg",
+    "static/media/teddy.jpg": "/uicomments/static/media/teddy.083efef5c3044eaddd32.jpg",
+    "static/media/kudikaran.jpg": "/uicomments/static/media/kudikaran.e5029d001775a465319f.jpg",
+    "index.html": "/uicomments/index.html",
+    "main.60929de5.js.map": "/uicomments/static/js/main.60929de5.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.60929de5.js"
+  ]
+}
